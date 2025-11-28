@@ -21,11 +21,3 @@ O objetivo é consolidar todos os cases em um único fluxo, garantindo a manipul
   "status": "falha"
 }
 
----
-
-## ▶️ Como Executar
-
-1. Certifique-se de ter o **Node.js** instalado.  
-2. Clone o repositório:
-   ```bash
-   git clone <url-do-repositorio>
